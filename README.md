@@ -3,11 +3,7 @@
 
 **Podcast geek e divertido** desenvolvido desde a concepção de nome ao audio das vozes, **gerado por recursos de Inteligência Artíficial, por revisão humana** 🤖 🧑‍🦲 
 
-<audio controls>
-        <source src="./audios/podcast-codigo-quebrado-EP01.mp3" type="audio/mpeg">
-        <source src="./audios/podcast-codigo-quebrado-EP01.ogg" type="audio/ogg">
-        <source src="./audios/podcast-codigo-quebrado-EP01.wav" type="audio/wav">
- </audio>
+
 
 
 # Prompts 👩‍💻
@@ -67,10 +63,13 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
 
 <strong><a href="https://chatgpt.com/share/66ef7277-4e64-8010-83de-e3c21513ca73">Conversa completa com chatGPT</a></strong> ⬅️
 
+# Resultado Final
+[![Clique aqui para ouvir o Podcast](./assets/images/art-podcast.png)](./audios/podcast-codigo-quebrado-EP01.mp3)
+
 
 # Tecnologias ⚗️🧪
 <div style="display: flex; gap: 5px">
-    <a href="https://openai.com/chatgpt/"><img src="./assets/logos/chatgpt.png" style="width: 50px; border-radius: 10px;"></a>
-    <a href="https://elevenlabs.io/"><img src="./assets/logos/Eleven_Labs.png" style="width: 50px; border-radius: 10px;"></a>
+    <a href="https://openai.com/chatgpt/"><img src="./assets/logos/chatgpt.png" style="width: 50px;"></a>
+    <a href="https://elevenlabs.io/"><img src="./assets/logos/Eleven_Labs.png" style="width: 50px;"></a>
 </div>
 
