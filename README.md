@@ -3,6 +3,12 @@
 
 **Podcast geek e divertido** desenvolvido desde a concepção de nome ao audio das vozes, **gerado por recursos de Inteligência Artíficial, por revisão humana** 🤖 🧑‍🦲 
 
+<audio controls>
+        <source src="./audios/podcast-codigo-quebrado-EP01.mp3" type="audio/mpeg">
+        <source src="./audios/podcast-codigo-quebrado-EP01.ogg" type="audio/ogg">
+        <source src="./audios/podcast-codigo-quebrado-EP01.wav" type="audio/wav">
+ </audio>
+
 
 # Prompts 👩‍💻
 ## ✍️ Nome 
