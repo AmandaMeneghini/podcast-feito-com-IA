@@ -63,7 +63,7 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
 - Não ultrapasse 3 minutos de duração
 ```
 
-<strong><a href="https://chatgpt.com/share/66ef7277-4e64-8010-83de-e3c21513ca73">Conversa completa com chatGPT</a></strong> ⬅️
+<strong><a href="https://chatgpt.com/share/66ef7277-4e64-8010-83de-e3c21513ca73" target="_blank">Conversa completa com chatGPT</a></strong> ⬅️
 
 # Resultado Final 🫣
 [![Clique aqui para ouvir o Podcast](./assets/images/art-podcast.png)](https://drive.google.com/file/d/1WmQ-sNvvRMOhnx6YjP7nOgDODiXBc0dx/view?usp=sharing)
@@ -74,9 +74,6 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
 **Música Inicial do Podcast -** [**Breaking Bad [MetroGnome Remix]**](https://soundcloud.com/itsmetrognome/breaking-bad-metrognome-remix?in=itsmetrognome/sets/itsmetrognome) 
 
 **Música de Fundo do Podcast -** [**RomanBelov Coffee Chill Out**](https://pixabay.com/pt/music/batidas-coffee-chill-out-15283/)
-
-## Outro projeto com feito com IA 🤖
-<a href="https://www.youtube.com/embed/7S8Ss7oKJzU?si=MG5W3JxomRGAxHxK"><img src="./assets/images/YOUTUBE.png" style="width: 500px;"/></a>
 
 ## 🗂 Estrutura do Projeto
 ```
@@ -96,14 +93,16 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
 
 # Ferramentas Utilizadas ⚗️🧪
 <div style="display: flex; gap: 15px">
-    <a href="https://openai.com/chatgpt/"><img src="./assets/logos/chatgpt.png" style="width: 50px;"/></a>
-    <a href="https://elevenlabs.io/"><img src="./assets/logos/Eleven_Labs.png" style="width: 50px;"/></a>
-    <a href="https://copilot.microsoft.com/"><img src="./assets/logos/copilot.png" style="width: 50px;"/></a>
-    <a href="https://www.adobe.com/br/products/photoshop.html"><img src="./assets/logos/adobe-photoshop.png" style="width: 50px;"/></a>
-    <a href="https://www.adobe.com/br/products/premiere.html"><img src="./assets/logos/adobe-premiere.png" style="width: 50px;"/></a>
+    <a href="https://openai.com/chatgpt/" target="_blank"><img src="./assets/logos/chatgpt.png" style="width: 50px;"/></a>
+    <a href="https://elevenlabs.io/" target="_blank"><img src="./assets/logos/Eleven_Labs.png" style="width: 50px;"/></a>
+    <a href="https://copilot.microsoft.com/" target="_blank"><img src="./assets/logos/copilot.png" style="width: 50px;"/></a>
+    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="./assets/logos/adobe-photoshop.png" style="width: 50px;"/></a>
+    <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"><img src="./assets/logos/adobe-premiere.png" style="width: 50px;"/></a>
 </div><br>
 
 
+## Outro projeto com feito com IA 🤖
+<a href="https://www.youtube.com/embed/7S8Ss7oKJzU?si=MG5W3JxomRGAxHxK" target="_blank"><img src="./assets/images/YOUTUBE.png" style="width: 500px;"/></a>
 
 ## 👨‍💻 Autora
 
@@ -116,8 +115,8 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
     />
     <p>&nbsp&nbsp&nbspAmanda Meneghini<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/AmandaMeneghini">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/amanda-meneghini/">LinkedIn</a>
+    <a href="https://github.com/AmandaMeneghini" target="_blank">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/amanda-meneghini/" target="_blank">LinkedIn</a>
     &nbsp;&nbsp;
     </p>
 <br><br>
@@ -132,8 +131,8 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
     src="./assets/images/84b2d685-23f9-4729-9e3c-28cb84a39b38.png"
 />
 
-&nbsp;<p>Desafio pelo professor [**Felipe Aguiar**](https://www.linkedin.com/in/felipeaguiar-exe/), no **Bootcamp Fundamentos de IA para Devs** da [**DIO**](https://www.dio.me/) em parceria com o [**Santander**](https://www.linkedin.com/company/banco-santander/)</p>
+&nbsp;<p>Desafio proposto pelo professor [**Felipe Aguiar**](https://www.linkedin.com/in/felipeaguiar-exe/), no **Bootcamp Fundamentos de IA para Devs** da [**DIO**](https://www.dio.me/) em parceria com o [**Banco Santander**](https://www.linkedin.com/company/banco-santander/)</p>
 
  <br>
- 
- Feito com 💛 por [Amanda Meneghini](https://github.com/AmandaMeneghini)
+
+ **Obrigada** por ver até aqui 💛 by [Amanda Meneghini](https://github.com/AmandaMeneghini)
