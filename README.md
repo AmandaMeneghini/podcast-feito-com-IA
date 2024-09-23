@@ -101,7 +101,7 @@ o formato do roteiro deve ser baseada na estrutura anterior gerada por você
 </div><br>
 
 
-## Outro projeto com feito com IA 🤖
+## Outro projeto feito com IA 🤖
 <a href="https://www.youtube.com/embed/7S8Ss7oKJzU?si=MG5W3JxomRGAxHxK" target="_blank"><img src="./assets/images/YOUTUBE.png" style="width: 500px;"/></a>
 
 ## 👨‍💻 Autora
